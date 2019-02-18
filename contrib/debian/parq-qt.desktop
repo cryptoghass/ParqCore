@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Parq
+Comment=Parq P2P Cryptocurrency
+Comment[fr]=Parq, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Parq, eşten eşe kriptografik sanal para birimi
+Exec=parq-qt %u
+Terminal=false
+Type=Application
+Icon=parq128
+MimeType=x-scheme-handler/parq;
+Categories=Office;Finance;

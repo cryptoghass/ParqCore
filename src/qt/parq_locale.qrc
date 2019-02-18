@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/parq_bg.qm</file>
+        <file alias="de">locale/parq_de.qm</file>
+        <file alias="en">locale/parq_en.qm</file>
+        <file alias="es">locale/parq_es.qm</file>
+        <file alias="fi">locale/parq_fi.qm</file>
+        <file alias="fr">locale/parq_fr.qm</file>
+        <file alias="it">locale/parq_it.qm</file>
+        <file alias="ja">locale/parq_ja.qm</file>
+        <file alias="pl">locale/parq_pl.qm</file>
+        <file alias="pt">locale/parq_pt.qm</file>
+        <file alias="ru">locale/parq_ru.qm</file>
+        <file alias="sk">locale/parq_sk.qm</file>
+        <file alias="sv">locale/parq_sv.qm</file>
+        <file alias="vi">locale/parq_vi.qm</file>
+        <file alias="zh_CN">locale/parq_zh_CN.qm</file>
+        <file alias="zh_TW">locale/parq_zh_TW.qm</file>
+    </qresource>
+</RCC>

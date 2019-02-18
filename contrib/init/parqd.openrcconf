@@ -1,0 +1,26 @@
+# /etc/conf.d/parqd: config file for /etc/init.d/parqd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/parq/parq.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/parqd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/parqd.pid"
+
+# Where to write parqd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/parqd"
+
+# User and group to own parqd process
+#BITCOIND_USER="parq"
+#BITCOIND_GROUP="parq"
+
+# Path to parqd executable
+#BITCOIND_BIN="/usr/bin/parqd"
+
+# Nice value to run parqd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
